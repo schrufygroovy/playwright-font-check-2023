@@ -1,0 +1,11 @@
+Dockerfile
+playwright-report
+tests/example.spec.ts-snapshots
+readme.md
+.dockerignore
+.git
+.gitignore
+node_modules
+gitversion*.json
+.next
+.vscode
